@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 
 const Ninjas = ({ninjas}) =>{ 
    
@@ -18,6 +18,6 @@ const Ninjas = ({ninjas}) =>{
       </div>
     )
   }
-}
+
 
 export default Ninjas
